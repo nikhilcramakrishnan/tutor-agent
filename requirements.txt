@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain>=0.2
+langchain-community>=0.2
+langchain-text-splitters>=0.2
+langchain-openai>=0.1
+chromadb>=0.5
+pypdf>=4
+python-dotenv
+tqdm
+whisper
+sounddevice
+numpy
